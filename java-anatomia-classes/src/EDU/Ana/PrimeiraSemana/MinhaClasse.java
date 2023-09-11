@@ -1,3 +1,4 @@
+package EDU.Ana.PrimeiraSemana;
 public class MinhaClasse {
 
     public static void main(String[] args) {
