@@ -1,4 +1,4 @@
-package EDU.Ana.PrimeiraSemana;
+package EDU.Ana.Projetos;
 public class BoletimEstudantil {
     public static void main(String[] args) {
 		int mediaFinal = 7;
